@@ -15,7 +15,7 @@
 
 - 🐼 Reach me through my email at **auliya.izham@gmail.com**
 
-- ⚡ Fun fact **I eat once a day for 5 years**
+- ⚡ Fun fact **I eat once a day for the last 5 years**
 
 ## 🚀 Languages and Tools:
 <!-- [![apache-kafka-vertical.png](https://i.postimg.cc/YSBzvVq8/apache-kafka-vertical.png)](https://postimg.cc/v4XVj0n6) -->
