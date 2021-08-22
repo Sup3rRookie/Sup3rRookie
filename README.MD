@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.postimg.cc/V610wPLQ/arnold-francisca-FBNxmw-EVp-Ac-unsplash.jpg" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Auliya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Auliya Hidayat</h1>
 <h3 align="center">I 'm a <span style="color: #00ff00
 "> Data Engineer </span><br> Working in <span style="color: #ffbf00">Digital </span> & <span style="color: #ffbf00">eCommerce space </span> 💜 </h3>
 
@@ -18,6 +18,8 @@
 - ⚡ Fun fact **I eat once a day for the last 5 years**
 
 ## 🚀 Languages and Tools:
+<!-- [![postgresql.png](https://i.postimg.cc/FKbP4hFv/postgresql.png)](https://postimg.cc/t1TddQVv) -->
+<!-- [![docker-icon.png](https://i.postimg.cc/pdPNwGQm/docker-icon.png)](https://postimg.cc/jD3kNhFT) -->
 <!-- [![apache-kafka-vertical.png](https://i.postimg.cc/YSBzvVq8/apache-kafka-vertical.png)](https://postimg.cc/v4XVj0n6) -->
 <!-- [![arnold-francisca-FBNxmw-EVp-Ac-unsplash.jpg](https://i.postimg.cc/V610wPLQ/arnold-francisca-FBNxmw-EVp-Ac-unsplash.jpg)](https://postimg.cc/NyJj8VHp) -->
 <!-- [![airflow-1.png](https://i.postimg.cc/bYBWFyw5/airflow-1.png)](https://postimg.cc/9zyLDjTP) -->
@@ -26,14 +28,14 @@
 <!-- [![apache-kafka.png](https://i.postimg.cc/9f4zjFjn/apache-kafka.png)](https://postimg.cc/hJBKLnvL) -->
 <p align="left" style= "">
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://i.postimg.cc/9f4zjFjn/apache-kafka.png" height="48" width="48"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://i.postimg.cc/HnYSVNzF/apache-spark.png" height="48" width="48"/> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://i.postimg.cc/9FB8HcmV/redshift-icon.png height="48" width="48" alt="jenkins" width="48" height="48"/> </a>    <a href="https://reactjs.org/" target="_blank"> <img src="https://i.postimg.cc/bYBWFyw5/airflow-1.png"/ height="48" width="48"></a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://i.postimg.cc/9f4zjFjn/apache-kafka.png" height="48" width="48"/> </a>
+    <a href=https://spark.apache.org/" target="_blank"> <img src="https://i.postimg.cc/HnYSVNzF/apache-spark.png" height="48" width="48"/> </a>
+    <a href="https://aws.amazon.com/redshift/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc" target="_blank"> <img src="https://i.postimg.cc/9FB8HcmV/redshift-icon.png height="48" width="48" alt="jenkins" width="48" height="48"/> </a>    <a href="https://airflow.apache.org/" target="_blank"> <img src="https://i.postimg.cc/bYBWFyw5/airflow-1.png"/ height="48" width="48"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
+    <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://i.postimg.cc/FKbP4hFv/postgresql.png" height="48" width="48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://i.postimg.cc/pdPNwGQm/docker-icon.png" alt="postman" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <!-- <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
     <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
@@ -49,7 +51,6 @@
 </p>
 
 ## 📊 My Github Stats
-
   <br/>
     <a href="https://github.com/Sup3rRookie/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sup3rRookie&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Sup3rRookie/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sup3rRookie&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
